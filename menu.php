@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
+<?php
+/**
+ * Componente: Menu de Navegação (Backward Compatibility)
+ */
+?>
+<div class="nav-actions" style="margin-bottom: 25px;">
+    <a href="listar_paises.php" class="btn btn-primary">PAÍSES CADASTRADOS</a>
+    <a href="cadastrar_pais.php" class="btn btn-success">CADASTRAR PAÍS</a>
+</div>
