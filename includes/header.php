@@ -28,7 +28,7 @@
           <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path>
           <path d="M2 12h20"></path>
         </svg>
-        América do Sul Explorer
+        América do Sul
       </a>
       
       <!-- BOTÕES OBRIGATÓRIOS DO SISTEMA -->

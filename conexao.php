@@ -7,7 +7,7 @@
 $host = 'localhost';
 $dbname = 'america_sul';
 $username = 'root';
-$password = ''; // Padrão do XAMPP é sem senha
+$password = 'admin'; // Padrão do XAMPP é sem senha
 
 try {
     $pdo = new PDO("mysql:host={$host};dbname={$dbname};charset=utf8mb4", $username, $password, [
